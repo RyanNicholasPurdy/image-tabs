@@ -25,11 +25,11 @@ html {
   text-align: center;
 }
 
-.tabs li{
+.tabs li {
   display: inline-block;
 }
 
-.tabs a{
+.tabs a {
   display: inline-block;
   background-color: #e2e2e2;
   color: #000;
@@ -42,7 +42,7 @@ html {
   border-radius: 5px;
 }
 
-.tabs a:hover{
+.tabs a:hover {
   background-color: black;
   color: #fff;
 }
@@ -51,6 +51,6 @@ html {
   display: none;
 }
 
-.argyle:target{
+.argyle:target {
   display: block;
 }
